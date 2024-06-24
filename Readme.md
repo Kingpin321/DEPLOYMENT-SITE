@@ -32,10 +32,6 @@
 ## Contact me through whatsapp using the link below👇🏼
 
 <a href="https://wa.me/254716860343" target="_blank">
-=====================OR=====================
-## Telegram me using the link below👇🏼
-
-<a href="http://t.me/Kingpintech" target="_blank"> 
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <div align="center" id="top">
