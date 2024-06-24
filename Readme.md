@@ -7,7 +7,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/><gif'<a>'
 
-##  1. KINGS MD (No ban on heroku)😁
+##  1. KINGS MD (No ban on heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Kingpin321/KINGS-MD)
 
