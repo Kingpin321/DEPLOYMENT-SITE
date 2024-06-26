@@ -17,7 +17,7 @@
 
 ##  4. DEVELOPER INFO
 
-<a href="https://github.com/Kingpin321/megbot-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Kingpin321/megbot"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
