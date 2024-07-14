@@ -32,7 +32,7 @@
 ## Contact me through whatsapp using the link below👇🏼
 
 <a href="https://wa.me/254702626305" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://telegra.ph/file/7d718db4b2e332da0b53e.jpg" />
 
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
