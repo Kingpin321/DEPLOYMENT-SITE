@@ -11,9 +11,18 @@
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Kingpin321/KINGS-MD)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/><gif'<a>'
+### DEPLOY ON RENDER
 
-<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+
+
+### DEPLOY ON CLEVER CLOUD
+
+1. If you don't have an account in Clever Cloud, create one and deploy.
+    <br>
+    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
 
 <a><img src='https://telegra.ph/file/d6f2db280e4ec4d743cb0.jpg'/></a>
 
