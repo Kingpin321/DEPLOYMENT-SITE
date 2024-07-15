@@ -22,7 +22,7 @@
 
 1. If you don't have an account in Clever Cloud, create one and deploy.
     <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 <a><img src='https://telegra.ph/file/d6f2db280e4ec4d743cb0.jpg'/></a>
 
