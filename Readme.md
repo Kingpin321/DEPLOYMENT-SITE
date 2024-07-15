@@ -3,7 +3,7 @@
   
   # Kingpin Tech Science
 
-  # Tap on the KINGS MD bot to deploy it on heroku!
+  # Tap on the KINGS MD bot and choose any deployment site!
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/><gif'<a>'
 
@@ -11,7 +11,9 @@
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Kingpin321/KINGS-MD)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/><gif'<a>'
 
+<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://telegra.ph/file/d6f2db280e4ec4d743cb0.jpg'/></a>
 
