@@ -23,6 +23,50 @@
 1. If you don't have an account in Clever Cloud, create one and deploy.
     <br>
     <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=render&logoColor=white'/></a>
+<p align="center">
+  #### DEPLOY TO Toystack
+
+1. If You don't have an account in Toystack. Create an account.
+    <br>
+<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
+
+2. set the Env Vars.
+    <br>
+
+
+**Note:** You'll need to set these environment variables 
+
+| Variable | Description 
+|---|---|
+| DATABASE_URL | URL for connecting to your mongodb database | 
+| SESSION_ID | your session id | 
+| REMOVEBG_KEY | API key for www.remove.bg | 
+| PREFIX | put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix |
+| MODE | mode public or private |
+| autoRead | make it true if you want bot to read messages |
+| statusview | make it true if you want bot to view status | 
+| OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
+| BOTNAME | Your Bot Name | 
+| antidelete | bot will forward deleted messages if you make it true | 
+
+
+3. Now Deploy
+   <br>
+ <div align="center">
+  <a href="https://toystack.ai">
+    <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45" alt="Deploy to Toystack ">
+  </a>
+</div>
+<p align="center">
+  #### DEPLOY TO KOYEB
+
+1. if you don't have a koyeb account. Create an account.
+   <br>
+   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
+
+2. Now deploy
+   <br>
+  <p align="center"><a href="https://guru-bot-deploy.vercel.app"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
 
 <a><img src='https://telegra.ph/file/d6f2db280e4ec4d743cb0.jpg'/></a>
 
